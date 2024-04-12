@@ -1,6 +1,10 @@
-header {
+.cabeçalho {
     background-color: #424E61;
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
 }
 
 
