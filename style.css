@@ -5,13 +5,13 @@ body{
 h1{
     display: flex;
     justify-content: center;
-    padding: 10%;
+    padding: 5%;
 }
 
 h2{
     display: flex;
     justify-content: center;
-    padding: 10%;
+    padding: 5%;
 }
 
 ul{ 
