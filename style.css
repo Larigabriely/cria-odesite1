@@ -10,7 +10,7 @@ h1{
 
 h2{
     display: flex;
-    justify-content: space-around;
+    justify-content: left;
     padding: 2%;
 }
 
