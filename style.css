@@ -1,6 +1,7 @@
 body{
     color: white;
-    background-color: rgba(183, 29, 255, 0.322);
+    background-color: blueviolet white blueviolet;
+
 }
 h1{
     display: flex;
