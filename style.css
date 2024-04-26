@@ -20,3 +20,10 @@ ul{
     align-items: center;
     padding: 50px;
 }
+
+cabecalho{
+    display: flex;
+    justify-content: left;
+    padding: 30%;
+    margin: 72px;
+}
