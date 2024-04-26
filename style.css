@@ -24,6 +24,6 @@ ul{
 .cabecalho-logo {
     display: flex;
     justify-content: left;
-    padding: 5%;
-    margin: 2%;
+    padding: 80%;
+    margin: 100%;
 }
