@@ -1,6 +1,6 @@
 body{
     color: white;
-    background: linear-gradient(rgba(208, 255, 0, 0.377), rgb(1, 248, 215) );
+    background: linear-gradient(rgba(255, 0, 234, 0.377), rgb(199, 1, 248) );
 
 }
 h1{
@@ -8,7 +8,6 @@ h1{
     justify-content: center;
     padding: 5%;
 }
-
 h2{
     display: flex;
     justify-content: left;
