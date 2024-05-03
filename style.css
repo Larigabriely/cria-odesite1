@@ -21,7 +21,7 @@ h2{
 ul{ 
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: lesf;
     padding: 25%;
     font-size: 180%;
 }
