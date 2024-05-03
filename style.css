@@ -20,7 +20,7 @@ ul{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 50px;
+    padding: 25%;
     font-size: 180%;
 }
 
