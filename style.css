@@ -32,7 +32,7 @@ ul{
 titulo-logo{
     display: flex ;
     justify-content: left;
-    width: 20px;
+    width: 50%;
     padding:23% ;
     margin:87%;
 }   
