@@ -27,7 +27,7 @@ ul{
 }
 
 
-.cabecalho-logo {
+cabecalho-logo {
     display: flex;
     justify-content: left;
     width: 200px;
