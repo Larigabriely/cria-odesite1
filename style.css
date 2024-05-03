@@ -24,10 +24,7 @@ ul{
     font-size: 180%;
 }
 
-div{
-    padding: 2px;
-    margin: 0px;
-}
+
 .cabecalho-logo {
     display: flex;
     justify-content: left;
