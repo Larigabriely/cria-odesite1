@@ -28,3 +28,11 @@ ul{
     padding: 1%;
     margin: 0px;
 }
+
+titulo-logo{
+    display: flex ;
+    justify-content: left;
+    width: 70px;
+    margin: 56px;
+}   
+
