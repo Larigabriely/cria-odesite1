@@ -6,14 +6,14 @@ body{
 h1{
     display: flex;
     justify-content: center;
-    padding: 98%;
+    padding: 10px;
     margin: 15px;
     font-size: 200%
 }
 h2{
     display: flex;
     justify-content: left;
-    padding: 2%;
+    padding: 10px;
     margin: 15px;
    
 }
@@ -22,7 +22,7 @@ ul{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 25%;
+    padding: 10px;
     font-size: 180%;
 }
 
@@ -31,6 +31,6 @@ cabecalho-logo {
     display: flex;
     justify-content: left;
     width: 200px;
-    padding: 10%;
+    padding: 10px;
     margin: 0%;
 }
