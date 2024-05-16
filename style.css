@@ -6,7 +6,7 @@ body{
 h1{
     display: flex;
     justify-content: center;
-    padding: 200px;
+    padding: 100px;
     margin: 15px;
     font-size: 250px
 }
