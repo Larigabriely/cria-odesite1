@@ -63,5 +63,9 @@ footer{
     background-color: brown;
 }
 titulo-final{
-    width: 270px;
+    display: flex;
+    padding: 17px;
+    margin: 25px;
+    width: 20px;
+    font-size: 40px;
 }
