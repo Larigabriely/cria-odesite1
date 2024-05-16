@@ -62,7 +62,7 @@ h5{
 footer{
     background-color: brown;
 }
-titulo-final{
+.titulo-final{
     display: flex;
     padding: 17px;
     margin: 25px;
