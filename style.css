@@ -40,3 +40,8 @@ cabecalho-logo {
     margin-left: 20px;
     text-align: center;
 }
+
+h4{
+    display: flex;
+    justify-content: left;
+}
