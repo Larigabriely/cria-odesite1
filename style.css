@@ -3,7 +3,7 @@ body{
   background: linear-gradient(rgb(255, 166, 0), rgb(248, 120, 1) );
 }
 h1{.GASTROMONI HEIGHTS
-    display: flex;
+    display: center;
     justify-content: center;
     padding: 900px;
     margin: 900px;
