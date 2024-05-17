@@ -5,15 +5,15 @@ body{
 h1{.GASTROMONI HEIGHTS
     display: flex;
     justify-content: center;
-    padding: 200px;
-    margin: 85px;
+    padding: 100px;
+    margin: 35px;
     font-size: 10px
 }
 h2{
     display: flex;
     justify-content: left;
     padding: 35px;
-    margin: 45px;
+    margin: 90px;
    
 }
 
