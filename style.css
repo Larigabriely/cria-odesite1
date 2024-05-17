@@ -31,13 +31,13 @@ cabecalho-logo {
     display: flex;
     justify-content: left;
     width: 200px;
-    padding: 10px;
+    padding: 100px;
     margin: 0%;
 }
 
 .subtitulo{
-    font-size: 69px;
-    margin-left: 70px;
+    font-size: 67px;
+    margin-left: 50px;
     text-align: center;
 }
 
