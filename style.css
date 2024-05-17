@@ -65,9 +65,9 @@ footer{
 .titulo-final{
     display: flex;
     justify-content: center;
-    padding: 17px;
+    padding: 30px;
     margin: 25px;
-    width: 20px;
+    width: 40px;
     font-size: 60px;
     margin-left: 15px;
 }
