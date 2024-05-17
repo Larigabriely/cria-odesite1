@@ -60,14 +60,14 @@ h5{
 }
 
 footer{
-    background-color: brown;
+    background-color: rgba(236, 8, 8, 0.829);
 }
 .titulo-final{
     display: flex;
     justify-content: center;
-    padding: 30px;
+    padding: 25px;
     margin: 25px;
     width: 40px;
-    font-size: 60px;
-    margin-left: 3px;
+    font-size: 40px;
+    margin-left: 25px;
 }
