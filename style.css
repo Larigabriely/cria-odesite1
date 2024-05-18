@@ -6,8 +6,8 @@ h1{
     display: flex ;
     justify-content: center;
     padding: 90px;
-    margin: 70%;
-    font-size: 8px
+    margin: 70px;
+    font-size: 90%
 }
 h2{
     display: flex;
