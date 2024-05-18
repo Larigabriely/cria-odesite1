@@ -29,12 +29,12 @@ cabecalho-logo {
     justify-content: left;
     width: 200px;
     padding: 100px;
-    margin: 0%;
+    margin: 80%;
 }
 
 .subtitulo{
     font-size: 45px;
-    margin-left: 10px;
+    margin-left: 80px;
     text-align: center;
 }
 
