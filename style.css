@@ -9,14 +9,13 @@ h1{
     margin: 70px;
     font-size: 90%
 }
-h2{
+h2{ 
     display: flex;
     justify-content: left;
     padding: 800%;
     margin: 90px;
-   
+   font-size: large;
 }
-
 ul{ 
     display: flex;
     justify-content: space-around;
