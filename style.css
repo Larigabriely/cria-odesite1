@@ -11,7 +11,7 @@ body{
 }
 h2{
     display: flex;
-    justify-content: left;
+    justify-content: space-around;
     padding: 90px;
     margin: 90px;
 }
