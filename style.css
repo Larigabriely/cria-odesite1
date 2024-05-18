@@ -2,7 +2,7 @@ body{
     color: white;
   background: linear-gradient(rgb(255, 136, 0), rgba(248, 170, 1, 0.993) );
 }
- h1 GASTRONOMI HEIGHTS{
+h1{
     display: flex;
     justify-content: space-around;
     padding: 25px;
