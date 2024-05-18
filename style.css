@@ -7,9 +7,14 @@ GASTRONOMI HEIGHTS{
     justify-content: left
     margin: center
     padding:46px 
-    font-size 200px;
+    font-size 90px;
 }
-
+h2{
+    display: flex;
+    justify-content: left;
+    padding: 90px;
+    margin: 90px;
+}
 u1{
     display: flex;
     justify-content: space-around;
