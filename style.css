@@ -43,7 +43,7 @@ cabecalho-logo {
 h4{
     display: flex;
     justify-content: left;
-    padding: 17px;
+    padding: 80px;
     margin: 25px;
     width: 60px;
     font-size: 80px;
@@ -52,7 +52,7 @@ h4{
 h5{
     display: flex;
     justify-content: left;
-    padding: 17px;
+    padding: 80px;
     margin: 25px;
     width: 60px;
     font-size: 80px;
