@@ -5,9 +5,9 @@ body{
 h1{.GASTROMONI HEIGHTS
     display: flex ;
     justify-content: center;
-    padding: 90px;
-    margin: 799px;
-    font-size: 98px
+    padding: 0px;
+    margin: 7px;
+    font-size: 8px
 }
 h2{
     display: flex;
