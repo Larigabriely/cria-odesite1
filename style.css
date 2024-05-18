@@ -2,12 +2,12 @@ body{
     color: white;
   background: linear-gradient(rgb(255, 136, 0), rgba(248, 170, 1, 0.993) );
 }
-GASTRONOMI HEIGHTS{
+ h1 GASTRONOMI HEIGHTS{
     display: flex;
-    justify-content: left
-    margin: center
-    padding:46px 
-    font-size 90px;
+    justify-content: center;
+    padding: 100px;
+    margin: 80px;
+    font-size: 90px;
 }
 h2{
     display: flex;
