@@ -2,21 +2,15 @@ body{
     color: white;
   background: linear-gradient(rgb(255, 136, 0), rgba(248, 170, 1, 0.993) );
 }
-h1{
-    display: flex ;
-    justify-content: center;
-    padding: 50cap;
-    margin: 70px;
-    font-size: small; 
-}
-h2{ 
+GASTRONOMI HEIGHTS{
     display: flex;
-    justify-content: left;
-    padding: 80%;
-    margin: 90px;
-   font-size: large;
+    justify-content: left
+    margin: center
+    padding:46px 
+    font-size 200px;
 }
-ul{ 
+
+u1{
     display: flex;
     justify-content: space-around;
     align-items: center;
